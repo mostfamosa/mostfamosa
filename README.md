@@ -1,7 +1,7 @@
 [![MasterHead](https://raw.githubusercontent.com/Giphy/GiphyAPI/master/api_giphy_header.gif)](https://rishavchanda.io)
 <h1 align="center">Hi 👋, I'm Mostafa Mossa</h1>
 <h3 align="center">A passionate Software Engineer | Java Developer | Back-End Developer</h3>
-<img align="right" width="400" src="https://www.google.com/url?sa=i&url=https%3A%2F%2Ftenor.com%2Fview%2Fcoding-gif-24625099&psig=AOvVaw02hFEgrOjPPOCcbz32GH-6&ust=1686836557347000&source=images&cd=vfe&ved=0CBEQjRxqFwoTCKjvy__xwv8CFQAAAAAdAAAAABAc" alt="gif-pic"/>
+<img align="right" width="400" src="https://media.tenor.com/qJ5evVs-_uUAAAAC/coding.gif" alt="gif-pic"/>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=mostfamosa&label=Profile%20views&color=0e75b6&style=flat" alt="mostfamosa" /> </p>
 
 - 🔭 I’m currently working on **React.js App for pizza place**
