@@ -27,10 +27,8 @@
 
 <p align="center">
   <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=mostfamosa&show_icons=true&locale=en&layout=compact" alt="mostfamosa" />
-
-&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=mostfamosa&show_icons=true&locale=en" alt="mostfamosa" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=mostfamosa&show_icons=true&locale=en" alt="mostfamosa" />
 </p>
-
 
 <p align="center"><img width="48%" align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=mostfamosa&hide_border=true" alt="mostfamosa" /></p>
 
