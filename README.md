@@ -1,5 +1,5 @@
 <p align="center">
-  <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=30&pause=1000&color=3BF70E&background=000000&center=true&vCenter=true&width=600&lines=Welcome+To+My+GitHub+Profile+%3AD;Make+Sure+To+Check+My+Repo's;Happy+Coding+" alt="Typing SVG" /></a>
+  <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=30&pause=1000&color=3BF70E&background=000000&center=true&vCenter=true&width=650&lines=Welcome+To+My+GitHub+Profile+%3AD;Make+Sure+To+Check+My+Repo's;Here's+A+Cup+Of+Coffee+%E2%98%95%CD%9C+(%E1%B5%94+%CC%AE+%E1%B5%94)%E2%80%BA;Have+A+Happy+Coding+;You+Got+It%2C+I+Believe+In+You;Improvise%2C+Adapt+and+Overcome;Don't+Be+Shy+To+Ask+Me+Anything" alt="Typing SVG" /></a>
 </p>
 
 [![MasterHead](https://raw.githubusercontent.com/Giphy/GiphyAPI/master/api_giphy_header.gif)](https://rishavchanda.io)
