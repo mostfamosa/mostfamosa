@@ -1,6 +1,8 @@
 [![MasterHead](https://raw.githubusercontent.com/Giphy/GiphyAPI/master/api_giphy_header.gif)](https://rishavchanda.io)
-<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=3BF70E&background=000000&center=true&vCenter=true&width=435&lines=Welcome+To+My+GitHub+Profile+%3AD;Make+Sure+To+Check+My+Repo's;Happy+Coding+" alt="Typing SVG" /></a>
 
+<p align="center">
+  <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=30&pause=1000&color=3BF70E&background=000000&center=true&vCenter=true&width=600&lines=Welcome+To+My+GitHub+Profile+%3AD;Make+Sure+To+Check+My+Repo's;Happy+Coding+" alt="Typing SVG" /></a>
+</p>
 <h1 align="center">Hi 👋, I'm Mostafa Mossa</h1>
 <h3 align="center">A passionate Software Engineer | Java Developer | Back-End Developer</h3>
 <img align="right" width="400" src="https://media.tenor.com/qJ5evVs-_uUAAAAC/coding.gif" alt="gif-pic"/>
