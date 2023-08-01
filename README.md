@@ -29,5 +29,6 @@
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=mostfamosa&show_icons=true&locale=en" alt="mostfamosa" /></p>
 
-<p><img width="48%" align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=mostfamosa&hide_border=true" alt="mostfamosa" /></p>
+
+<p align="center"><img width="48%" align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=mostfamosa&hide_border=true" alt="mostfamosa" /></p>
 
