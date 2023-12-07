@@ -9,13 +9,13 @@
 <img align="right" width="400" src="https://media.tenor.com/qJ5evVs-_uUAAAAC/coding.gif" alt="gif-pic"/>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=mostfamosa&label=Profile%20views&color=0e75b6&style=flat" alt="mostfamosa" /> </p>
 
-- 🔭 I’m currently working on **React.js App for pizza place**
+- 🔭 I’m currently working on **Playwright Project In TypeScript**
 
-- 🌱 I’m currently learning **Automation Engineer**
+- 🌱 I’m currently learning **QA Automation Engineer**
 
 - 👨‍💻 All of my projects are available at [https://mostafamossa.netlify.app/](https://mostafamossa.netlify.app/)
 
-- 💬 Ask me about **Java , React**
+- 💬 Ask me about **Java , React , QA , Typescript**
 
 - 📫 How to reach me **mostfa.g.m@gmail.com**
 
